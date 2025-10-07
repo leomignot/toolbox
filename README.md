@@ -94,4 +94,3 @@ Le sujet est trop vaste pour être traité ici, mais quelques outils et pistes p
 
 ### Gestion des références bibliographiques
 - [Zotero](https://www.zotero.org/).
-- Utile : [Reversed Zotero](https://huggingface.co/spaces/PleIAs/Reversed-Zotero), une interface permettant de transformer une bibliographie non structurée (ex : un copier-coller moche d'une section biblio depuis un pdf) en références BibTex à importer dans Zotero. Le modèle est par [ici](https://huggingface.co/PleIAs/BibTexer) (développé chez [pleias](https://pleias.fr/) avec [Pierre-Carl Langlais](https://x.com/Dorialexander)).
