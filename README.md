@@ -11,7 +11,7 @@ De même, on ne peut que conseiller de jeter un oeil aux outils listés et/ou pr
 ## Le bureau virtuel
 
 Le bureau virtuel (BV) donne gratuitement accès en ligne à certains outils payants via des machines virtuelles déployées par la DSI de Sciences Po.  
-Pour y accéder, contactez Marie-Ange Resano avec la fiche d'information complétée.
+Pour y accéder, contactez M.-A. R. avec la fiche d'information complétée.
 
 ## Retranscription automatique
 
@@ -56,7 +56,7 @@ Pour davantage d'informations, voir également le [billet](https://www.css.cnrs.
 
 ### Questionnaires en ligne
 
-- Selon votre affiliation, il est possible d'accéder à un Limesurvey maintenu par Sciences Po Bordeaux (demande d'accès auprès de Stéphane Botella) ou par l'Université de Bordeaux (demande d'accès par [ticket GLPI](https://assistance.u-bordeaux.fr/front/helpdesk.public.php)), ainsi que d'avoir accès à Sphinx par l'Université de Bordeaux (idem).
+- Selon votre affiliation, il est possible d'accéder à un Limesurvey maintenu par Sciences Po Bordeaux (demande d'accès auprès de S. B.) ou par l'Université de Bordeaux (demande d'accès par [ticket GLPI](https://assistance.u-bordeaux.fr/front/helpdesk.public.php)), ainsi que d'avoir accès à Sphinx par l'Université de Bordeaux (idem).
 - Librement accessibles, [Kobotoolbox](https://www.kobotoolbox.org/) et [Framaform](https://framaforms.org/abc/fr) peuvent également être intéressants.
 
 ## Outils spécifiques / thématiques
