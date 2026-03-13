@@ -65,7 +65,7 @@ Pour des usages spécifiques, on ne peut que recommander d'aller voir du côté 
 
 ### Data visualization
 
-- Python (Plotly, Seaborn, Matplotlib) et R (ggplot2).
+- Python ([Plotly](https://plotly.com/python/), [Seaborn](https://seaborn.pydata.org/), [Matplotlib](https://matplotlib.org/)) et R ([ggplot2](https://ggplot2.tidyverse.org/)).
 - [Rawgraphs](https://www.rawgraphs.io/) : outil en ligne gratuit et open source pour la visualisation de données.
 - [Datawrapper](https://www.datawrapper.de/) : en ligne  (nécessite une création de compte).
 - [Flourish](https://flourish.studio/) : en ligne  (nécessite une création de compte).
