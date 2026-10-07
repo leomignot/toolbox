@@ -19,13 +19,14 @@ L'une des solutions les plus populaires est [Whisper](https://github.com/openai/
 Si vous souhaitez plutôt faire tourner le tout sur votre machine, [noScribe](https://github.com/kaixxx/noScribe) a de bons retours.  
 Pour davantage d'informations, voir également le [billet](https://www.css.cnrs.fr/fr/whisper-pour-retranscrire-des-entretiens2/) du CSS de l'Institut Polytechnique de Paris.
 
-## Analyse de données qualitatives / entretiens
+## Analyse de données qualitatives / entretiens (CAQDAS)
 
 ### Logiciels (dont gratuits/libres)
 
+- Dans les solutions open source et gratuites, [QualCoder](https://qualcoder.wordpress.com/) et [LibreQDA](https://www.libreqda.org/) reviennent assez régulièrement et sont recommandables, de même que [Taguette](https://www.taguette.org/fr/).
 - [Resources for Comparing QDA Tools](https://guides.nyu.edu/QDA/comparison) des NYU Libraries : comparaison des logiciels disponibles, et notamment les [outils gratuits](https://guides.nyu.edu/QDA/FLOSSQDA).
 - [Comparison of CAQDAS software](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software#Free_.2F_open_source_software_for_CAQDAS) : un listing équivalent du côté de Wikipedia.
-- Dans les solutions open source et gratuites, [QualCoder](https://qualcoder.wordpress.com/) et [Taguette](https://www.taguette.org/fr/) reviennent assez régulièrement et sont recommandables, de même que [LibreQDA](https://www.libreqda.org/).
+
 
 ### Principaux logiciels commerciaux
 
